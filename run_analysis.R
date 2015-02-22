@@ -76,4 +76,4 @@ for(index in 1:nrow(newData)){
 }
 
 ## write to table
-write.table(newData,"dataCleaningAssignment.txt")
+write.table(newData,"dataCleaningAssignment.txt"66)
